@@ -130,6 +130,6 @@ __GitHub Repository__:
 * https://github.com/Pranav-Programmer/Arynam
 * https://github.com/Pranav-Programmer/BackendAN
 
-![Logo](https://github.com/Pranav-Programmer/Arynam/assets/79044490/640fa807-c649-43a7-8dbd-0c4d0f678947)
+![logo](https://github.com/Pranav-Programmer/Arynam/assets/79044490/9e448dc7-a49f-48a2-8eee-25b035bd330d)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-dharme/)
