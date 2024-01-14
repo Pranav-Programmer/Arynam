@@ -42,7 +42,7 @@ To get started with Arynam, simply visit the Arynam website, Sign In with you go
 ```bash
   npm install
 ```
-4. Comment line number 34 to 39 and add following line to below commented lines in app.js file
+4. Comment line number 38 to 43 and add following line to below commented lines in app.js file
 ```bash
 app.listen(5000, () => {
   console.log("Server Started");
@@ -93,7 +93,7 @@ CLIENT_SECRET=Your_Google_Client_Secret
 NEXTAUTH_SECRET=Any_Hard_String_you_Think_Of
 NEXTAUTH_URL=http://localhost:3000
 ```
-* Update the Cloudinary configuration on 'src/pages/admin/index.js' file by replacing the placeholders with Your_Cloudinary_Cloud_Name. [Modify line number 97 in index.js file code]
+* Update the Cloudinary configuration on 'src/components/FileUpload.js' file by replacing the placeholders with Your_Cloudinary_Cloud_Name. [Modify line number 81 in FileUpload.js file code]
 5. Start the frontend application
 ```bash
   npm run dev
