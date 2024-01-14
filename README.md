@@ -107,8 +107,9 @@ NEXTAUTH_URL=http://localhost:3000
 - Add movies, web series, and anime to your __watchlist__.
 - Visit the __Admin panel__ to add new content and delete old content.
 
+![IMG_20240115_030822](https://github.com/Pranav-Programmer/Arynam/assets/79044490/7593146a-ed2a-4f98-82f2-45c1d2a1f06c)
 
-https://github.com/Pranav-Programmer/Arynam/assets/79044490/9916d66b-5be3-41ce-ba07-6e2739d77494
+![IMG_20240115_031057](https://github.com/Pranav-Programmer/Arynam/assets/79044490/fa217b35-377f-4584-a05c-e2ee0bb51cf8)
 
 
 ## Contribute 
