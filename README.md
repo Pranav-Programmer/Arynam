@@ -1,9 +1,9 @@
-# Arynam - OTT Platform
+# Arynam - Content Aggregation Platform
 
-Arynam is an OTT platform, providing users with the ability to watch movie trailers and download movies by signing in using their Google account. The platform offers a user-friendly interface with sections for Home, New & Popular, Web Series, Movies, Anime, and an Admin panel. The website is built using Next.js for the frontend, Tailwind CSS for styling, Node.js for the backend API, MongoDB Atlas for storing movie text details, and Cloudinary for storing movie posters.
+Arynam is an content aggregation Platform, providing users with the ability to watch movie trailers and discover movies by signing in using their Google account. The platform offers a user-friendly interface with sections for Home, New & Popular, Web Series, Movies, Anime, and an Admin panel. The website is built using Next.js for the frontend, Tailwind CSS for styling, Node.js for the backend API, MongoDB Atlas for storing movie text details, and Cloudinary for storing movie posters.
 ## Purpose
 
-The primary goal of Arynam is to create a seamless OTT platform where users can explore and enjoy movie content. The website simplifies the user experience by integrating Google account sign-in for easy access to trailers and downloads.
+The primary goal of Arynam is to create a seamless content aggregation platform where users can explore and enjoy movie content. The website simplifies the user experience by integrating Google account sign-in for easy access to trailers and watch link.
 ## Features
 
 - __User-Friendly Interface__: A well-organized layout with navigation options and quick access buttons.
